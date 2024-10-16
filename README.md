@@ -3,9 +3,9 @@ I'm a passionate computational biologist who is fscinated with what happen in th
 
 Currently I am completing an internship position in computational biology at the department of biophysics and pathphysiology in Veterinary Medicine Uinversity, Vienna, Austria.
 
- 🔭 I’m currently learning single cell RNA-Seq data ananlysis
- 🌱 I’m interested in Cancer genomics, spatial transcriptomics and multiomics
- 📫 How to reach me: chitgaran.sara@gmail.com
+ - 🔭 I’m currently learning single cell RNA-Seq data ananlysis
+ - 🌱 I’m interested in Cancer genomics, spatial transcriptomics and multiomics
+ - 📫 How to reach me: chitgaran.sara@gmail.com
 <!--
 **sarachitgaran/SaraChitgaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
