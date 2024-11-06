@@ -6,6 +6,7 @@ Currently I am completing an internship position in computational biology at the
  - 🔭 I’m currently learning single cell RNA-Seq data ananlysis and multiomics
  - 🌱 I’m interested in Cancer genomics, spatial transcriptomics and multiomics
  - 📫 How to reach me: chitgaran.sara@gmail.com
+ - ⚡ Fun fact: I'm a techno-optimist!
 <!--
 **sarachitgaran/SaraChitgaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
