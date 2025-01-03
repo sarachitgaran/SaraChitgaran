@@ -8,7 +8,7 @@ Currently I am completing an internship position in computational biology at the
  - 📫 How to reach me: chitgaran.sara@gmail.com
  - ⚡ Fun fact:
 1) I'm a techno-optimist! I might be interested in Sci-fi movies (my main source of inspiration for scientific passions) which depicts the time when technology eliminate humans, but I do believe that at the end of the day technology is usefull for humanity and help us to have a better life (with some inevitable side effects though).
-2) I have been told too many times that I would end up as a "Jack of all trades and master of none!" person. However, the full qoute is "Jack of all trades and master of none, though often times better than a master of one" and I do believe that interdisciplinarity is a must in this day and age. 
+2) I have been told too many times that I would end up as a "Jack of all trades and master of none!" person. However, the full qoute is "Jack of all trades and master of none, though often times better than a master of one". So I would keep up with my multi-disciplinary exploration. 
 <!--
 **sarachitgaran/SaraChitgaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
