@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate computational biologist who is fascinated with what happen in the cell at molecular level. I found it extremely intriguing to dive deep into the realm of omic data analysis in order to decipher the code of life.
+I'm a passionate computational biologist who is fascinated with what happen in the cell at molecular level. I found it extremely intriguing to dive deep into the realm of omic data analysis in order to decipher the code of life. To me cancer is a controlled chaos. An rochestrated frizz with mysteried coded within the levels of genome, epigenome, transcriptome, metabolom and so on. I want to uncover the mysteries.
 Currently, I am completing an internship position in computational biology at the department of biophysics and pathphysiology in Veterinary Medicine Uinversity, Vienna, Austria.
 
  - 🔭 I’m currently learning single cell RNA-Seq data ananlysis and multiomics.
