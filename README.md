@@ -3,7 +3,7 @@ I'm a passionate computational biologist who is fascinated with what happen in t
 Currently, I am completing an internship position in computational biology at biophysics and pathphysiology group in the department of biomedical science at Veterinary Medicine Uinversity, Vienna, Austria.
 
  - 🔭 I’m currently learning single cell RNA-Seq data ananlysis and multiomics.
- - 🌱 I’m interested in cancer genomics, spatial transcriptomics and transcription regulation.
+ - 🌱 I’m interested in spatial transcriptomics and machine learning application in genomics .
  - 📫 How to reach me: chitgaran.sara@gmail.com
  - ⚡ Fun fact:
 1) I'm a techno-optimist! I might be interested in Sci-fi movies (my main source of inspiration for scientific passions) which depicts the time when technology eliminate humans, but I do believe that at the end of the day technology is usefull for humanity and help us to have a better life (with some inevitable side effects though).
